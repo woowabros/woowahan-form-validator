@@ -1,0 +1,25 @@
+{
+  "name": "woowahan-form-validator",
+  "version": "0.1.0",
+  "description": "form validator middleware for woowahanjs",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woowabros/woowahan-form-validator.git"
+  },
+  "keywords": [
+    "woowahanjs",
+    "middleware",
+    "form",
+    "validator"
+  ],
+  "author": "Woowabros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/woowabros/woowahan-form-validator/issues"
+  },
+  "homepage": "https://github.com/woowabros/woowahan-form-validator#readme"
+}
