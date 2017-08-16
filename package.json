@@ -1,8 +1,8 @@
 {
   "name": "woowahan-form-validator",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "form validator middleware for woowahanjs",
-  "main": "lib/index.js",
+  "main": "lib/form-validator.js",
   "scripts": {
     "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
